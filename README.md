@@ -6,5 +6,5 @@
 +  __TRANSFORMS__
 
 ___
-You can see website for __live__ [__HERE__](https://shakstick.github.io/hidden-search-bar-component/)
+You can see website for __live__ [__HERE__](https://shakstick.github.io/background-image-scroll-effect/)
 
